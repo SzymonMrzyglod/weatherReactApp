@@ -1,0 +1,13 @@
+.result {
+    background-color: rgba(0,0,0,.8);
+    border-radius: 5px;
+    border: 2px solid #ddd;
+    color: #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.result-city{
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 30px;
+}
